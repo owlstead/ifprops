@@ -1,3 +1,3 @@
-module javautils {
+module ifprops {
     requires org.junit.jupiter.api;
 }

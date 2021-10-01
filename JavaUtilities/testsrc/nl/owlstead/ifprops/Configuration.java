@@ -1,8 +1,13 @@
-package nl.owlstead.javautils;
+package nl.owlstead.ifprops;
 
 import java.util.Optional;
 
-interface Parameters {
+/**
+ * Example configuration interface.
+ * 
+ * @author maartenb
+ */
+interface Configuration {
     String testString();
     Optional<Bla> testOptionalBla();
     String testReverse();

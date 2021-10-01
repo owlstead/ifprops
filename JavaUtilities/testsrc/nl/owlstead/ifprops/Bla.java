@@ -1,4 +1,4 @@
-package nl.owlstead.javautils;
+package nl.owlstead.ifprops;
 interface Bla {
     String bla();
 }
